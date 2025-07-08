@@ -14,23 +14,24 @@ Web Vulnerability Scanner é uma ferramenta de segurança para detectar vulnerab
 📥 Instalação
 Clone o repositório:
 
-bash
+
 git clone https://github.com/seu-usuario/tehry-scanner.git
 cd tehry-scanner
+
 Instale as dependências:
 
-bash
+
 pip install -r requirements.txt
 
 🛠️ Como Usar
 
 Escaneamento básico:
 
-bash
+
 python tehry_scanner.py http://exemplo.com
 Modo de testes (sites vulneráveis de demonstração):
 
-bash
+
 python tehry_scanner.py --test
 Opções disponíveis:
 
