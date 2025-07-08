@@ -62,13 +62,3 @@ Python 3.6+
 
 Bibliotecas: requests, colorama
 
-🤝 Como Contribuir
-Faça um Fork do projeto
-
-Crie sua branch (git checkout -b feature/AmazingFeature)
-
-Commit suas mudanças (git commit -m 'Add some AmazingFeature')
-
-Push para a branch (git push origin feature/AmazingFeature)
-
-Abra um Pull Request
